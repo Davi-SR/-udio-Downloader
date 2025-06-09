@@ -56,7 +56,5 @@ Batch download from playlists
 🤝 Contributions
 Pull requests are welcome! Feel free to fork the repo and propose new features, bug fixes, or improvements.
 
-📜 License
-MIT License © Davi Silva Ramos
 
 “Code is like music — the cleaner, the better it sounds.” 🎧💻
