@@ -24,13 +24,13 @@ pip install pytube
 Clone this repository:
 
 bash
-Copiar código
+Copy code
 git clone https://github.com/yourusername/youtube-audio-downloader.git
 cd youtube-audio-downloader
 Run the script:
 
 bash
-Copiar código
+Copy code
 python downloader.py
 Paste the YouTube video URL when prompted.
 
@@ -38,7 +38,7 @@ The audio will be downloaded in .mp4 format (audio only) and saved to your curre
 
 📁 Example
 text
-Copiar código
+Copy code
 Enter the YouTube video URL:
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 Downloading audio...
